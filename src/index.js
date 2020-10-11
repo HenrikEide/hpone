@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 class Square extends React.Component {
-    render() {
+    render() { //is it like this
       return (
         <button className="square">
           {/* TODO */}
